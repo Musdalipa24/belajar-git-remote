@@ -1,3 +1,4 @@
 [submodule "belajar-git-submodule"]
 	path = belajar-git-submodule
 	url = https://github.com/Musdalipa24/belajar-git-submodule.git
+	branch = release
